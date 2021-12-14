@@ -12,6 +12,7 @@ pytorch implementations of popular models for contrastive learning
 - Contrastive Loss
 
 ## TODO
+- 개발 프로세스 정립
 - 활용 데이터셋
 - Distributed Training
 - Backbone Generalization
