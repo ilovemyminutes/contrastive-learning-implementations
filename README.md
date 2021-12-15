@@ -7,11 +7,12 @@ pytorch implementations of popular models for contrastive learning
 - (확정 X)
 
 ## Agenda
-- SimCLR
-- MoCo (there is already official codes)
-- CLIP (there is offcial codes, but training session not supported)
-- SwAV
-- InfoNCELoss, ...
+- Instance-discrimination-based: SimCLR, MoCo, NPID, CLIP, Supervised CL, ...
+- Clustering-based: SwAV, DeepClustering, ...
+- Stop-gradient: BYOL, ...
+- Time-Series: 잘 모르겠음
+- Multimodal: CLIP, DeCLIP, ALIGN, FICLIP, ...
+- Loss Functions: InfoNCELoss(=NT-Xent)
 
 ## TODO
 - 개발 프로세스 정립
