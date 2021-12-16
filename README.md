@@ -19,7 +19,7 @@ pytorch implementations of popular models for contrastive learning
 - 활용 데이터셋
 - Distributed Training
 - Backbone Generalization
-
+- Contrastive Learning에 얽매이지 않아도 될 것 같기도?
 
 ## References
 - [Awesome CONTRASTIVE LEARNING](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning)
